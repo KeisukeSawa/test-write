@@ -1,9 +1,5 @@
 # test_write
-
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-"# test-write" 
+　このリポジトリは、ファンコミュニケーションズ株式会社でインターンをさせていただいた際の成果です。
+ 
+　テスト範囲などのテストの情報を共有できるアプリを作成しました。
+ 
